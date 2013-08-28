@@ -1,5 +1,5 @@
 /*
- * This example plays every .WAV file it finds on the SD card in a loop
+ * This program plays a .wav file when motion is detected.
  */
 #include <WaveHC.h>
 #include <WaveUtil.h>
